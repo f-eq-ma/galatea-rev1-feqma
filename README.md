@@ -9,3 +9,7 @@ qmk new-keymap -kb studiokestra/galatea -km feqma
 
 * Compile  
 qmk compile -kb studiokestra/galatea -km feqma  
+
+
+
+Note:  See https://github.com/f-eq-ma/bdn9 for AutoHotKey files for iTunes  
